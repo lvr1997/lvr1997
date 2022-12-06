@@ -1,7 +1,7 @@
-- 👋 Hi, There is my homepage.
-- 👀 I’m interested in web.
-- 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on ...
+- 👋 哈喽！小伙伴们~
+- 👀 我是一个WEB开发工作者
+- 🌱 我在拼命学习ing...
+- 💞️ 期待与更多大佬交流探讨~
 - 📫 Iv_alrily188@outlook.com
 
 <!---
